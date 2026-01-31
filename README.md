@@ -1,8 +1,8 @@
 # Formation-Robotique-ENSA-HardSoft
 
-🤖 Formation Robotique – ENSA HardSoft
+🤖 Formation Robotique – ENSAF HardSoft
 
-Ce repository regroupe l’ensemble des ressources développées durant la formation robotique ENSA HardSoft, incluant des codes Arduino, des schémas de câblage, des photos descriptives du matériel ainsi que des exemples pratiques d’utilisation de capteurs, actionneurs et drivers.
+Ce repository regroupe l’ensemble des ressources développées durant la formation robotique qui a organisée au club HardSoft par l'encadrement de technécien du club "EL-AMIRI YOUSSEF" dans l'ENSAF, incluant des codes Arduino, des schémas de câblage, des photos descriptives du matériel ainsi que des exemples pratiques d’utilisation de capteurs, actionneurs et drivers.
 
 📌 Contenu du projet
 
