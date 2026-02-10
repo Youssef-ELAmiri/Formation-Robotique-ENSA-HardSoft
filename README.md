@@ -50,7 +50,7 @@ Mini-projets : robot suiveur de ligne, éviteur d’obstacles, voiture télécom
 
 Télécharger ou cloner le repository :
 
-git clone https://github.com/username/ENSA-HardSoft-Robotique.git
+git clone https://github.com/Youssef-ELAmiri/Formation-Robotique-ENSA-HardSoft.git
 
 Ouvrir le code avec Arduino IDE
 
